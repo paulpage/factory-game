@@ -1,0 +1,16 @@
+{
+    "elements": [
+        "aluminum",
+        "copper",
+        "gold",
+        "diamond",
+        "iron"
+    ],
+    "forms": [
+        "raw",
+        "gear",
+        "liquid",
+        "wire",
+        "plate"
+    ]
+}
