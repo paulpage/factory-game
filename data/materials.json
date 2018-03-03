@@ -8,6 +8,7 @@
     ],
     "forms": [
         "raw",
+        "basic",
         "gear",
         "liquid",
         "wire",
